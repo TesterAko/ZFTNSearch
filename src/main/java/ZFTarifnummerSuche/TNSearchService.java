@@ -1,0 +1,26 @@
+package ZFTarifnummerSuche;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+import java.util.Optional;
+import java.util.stream.Stream;
+
+public class TNSearchService {
+
+    public JSONObject tnSucheMaterialNr(int materialNumber, JSONArray json) {
+        /* return json.toList().stream()
+                .map(o -> (JSONObject) o)
+                .filter(o -> o.has("Material") && o.getInt("Material") == materialNumber)
+                .findFirst().orElse(null);
+                */
+
+        for (int i = 0; i < json.length(); i++) {
+            JSONObject empObject = json.getJSONObject(i);
+            if (empObject.has("Material") && empObject.getInt("Material") == materialNumber) {
+                return empObject;
+            }
+        }
+        return null;
+    }
+}

@@ -557,10 +557,10 @@
       "EZT": 84839089900
     },
     {
-      "Material": "    5869 400 473",
+      "Material": 5869400473,
       "Materialkurztext": "RITZEL",
       "Übersetzung": "Ritzel",
-      "EZT": "   8708 5099 90 0"
+      "EZT": 87085099900
     },
     {
       "Material": 5869400558,
@@ -569,13 +569,13 @@
       "EZT": 87084099000
     },
     {
-      "Material": "    5869 400 588",
+      "Material": 5869400588,
       "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Tellerrad",
-      "EZT": "   8708 5099 90 0"
+      "EZT": 87085099900
     },
     {
-      "Material": "    5869 400 645",
+      "Material": 5869400645,
       "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Tellerrad",
       "EZT": "   8708 5099 90 0"
