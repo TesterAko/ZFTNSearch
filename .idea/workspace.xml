@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheKurzText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheKurzText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheMaterialNr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheMaterialNr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" afterDir="false" />
-    </list>
+    <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +18,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ekrem Gedik &lt;127249095+testerako@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -75,6 +71,15 @@
       <option name="presentableId" value="Default" />
       <updated>1696279522820</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
+      <option name="closed" value="true" />
+      <created>1696710476806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696710476806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
