@@ -13,8 +13,9 @@ import java.util.regex.Pattern;
 public class TNSucheKurzText {
 
     public static void tnSucheKurzText() throws FileNotFoundException {
+
         try (FileReader fileReader = new FileReader("src/main/resources/Tarifnummerliste.json");//liest die Daten aus der admin.json Datei
-             Scanner scanner = new Scanner(fileReader);//erstellt einen Scanner mit dem FileReader
+             Scanner scanner = new Scanner(fileReader);//erstellt einen Scanner mit dem JsonFileReader
              Scanner scannerSearch = new Scanner(System.in)) {
 
             StringBuffer jsonContent = new StringBuffer();//StringBuffer erstellen aus jsonContent
