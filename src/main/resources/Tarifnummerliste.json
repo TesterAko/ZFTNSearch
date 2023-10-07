@@ -211,7 +211,7 @@
     },
     {
       "Material": 4472464073,
-      "Materialkurztext": "Hohlrad",
+      "Materialkurztext": "HOHLRAD",
       "Übersetzung": "Hohlrad aus Stahl, geschmiedet, für Traktorachse",
       "EZT": 87085055000
     },
@@ -229,7 +229,7 @@
     },
     {
       "Material": 4474425005,
-      "Materialkurztext": "Hohlrad",
+      "Materialkurztext": "HOHLRAD",
       "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Kettenbagger",
       "EZT": 84314980000
     },
@@ -265,7 +265,7 @@
     },
     {
       "Material": 4474460159,
-      "Materialkurztext": "Welle",
+      "Materialkurztext": "WELLE",
       "Übersetzung": "Welle aus Stahl",
       "EZT": 84831095900
     },
@@ -314,6 +314,7 @@
     {
       "Material": 4644408164,
       "Materialkurztext": "STIRNRAD",
+      "Übersetzung": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
@@ -390,7 +391,7 @@
     },
     {
       "Material": 4662423009,
-      "Materialkurztext": "Sonnenrad",
+      "Materialkurztext": "SONNENRAD",
       "Übersetzung": "Sonnenrad aus Stahl für Baumaschinengetriebe",
       "EZT": 84839089900
     },
@@ -432,7 +433,7 @@
     },
     {
       "Material": 4662477027,
-      "Materialkurztext": "Welle",
+      "Materialkurztext": "WELLE",
       "Übersetzung": "Welle aus Stahl",
       "EZT": 84831095900
     },
@@ -557,10 +558,10 @@
       "EZT": 84839089900
     },
     {
-      "Material": "    5869 400 473",
+      "Material": 5869400473,
       "Materialkurztext": "RITZEL",
       "Übersetzung": "Ritzel",
-      "EZT": "   8708 5099 90 0"
+      "EZT": 87085099900
     },
     {
       "Material": 5869400558,
@@ -569,16 +570,16 @@
       "EZT": 87084099000
     },
     {
-      "Material": "    5869 400 588",
+      "Material": 5869400588,
       "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Tellerrad",
-      "EZT": "   8708 5099 90 0"
+      "EZT": 87085099900
     },
     {
-      "Material": "    5869 400 645",
+      "Material": 5869400645,
       "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Tellerrad",
-      "EZT": "   8708 5099 90 0"
+      "EZT": 87085099900
     },
     {
       "Material": 5869400727,
@@ -596,7 +597,7 @@
       "Material": 5869400794,
       "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Tellerrad",
-      "EZT": "   8708 5099 90 0"
+      "EZT": 87085099900
     },
     {
       "Material": 5869400846,
@@ -608,7 +609,7 @@
       "Material": 5869400890,
       "Materialkurztext": "HOHLRAD",
       "Übersetzung": "Schrägrad aus Stahl für Baumaschinenantrieb",
-      "EZT": "   8483 9089 90 0"
+      "EZT": 84839089900
     },
     {
       "Material": 5869400907,
@@ -620,7 +621,7 @@
       "Material": 5869400917,
       "Materialkurztext": "RADWELLE",
       "Übersetzung": "Radwelle",
-      "EZT": "   8483 1095 90 0"
+      "EZT": 84831095900
     },
     {
       "Material": 5869400930,
@@ -636,223 +637,223 @@
     },
     {
       "Material": 2095409045,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 2097409009,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 2097409025,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 4108403153,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4149449013,
-      "Materialkurztext": "Kegelrad",
+      "Materialkurztext": "KEGELRAD",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4181416005,
-      "Materialkurztext": "Kegelrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4181416006,
-      "Materialkurztext": "Kegelrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4460405507,
-      "Materialkurztext": "Ritzel",
+      "Materialkurztext": "RITZEL",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4460405610,
-      "Materialkurztext": "Ritzel",
+      "Materialkurztext": "RITZEL",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4460416101,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4460471090,
-      "Materialkurztext": "Ritzel",
+      "Materialkurztext": "RITZEL",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4475438076,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400041,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 5869400284,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400402,
-      "Materialkurztext": "Ritzel",
+      "Materialkurztext": "RITZEL",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400403,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400404,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400471,
-      "Materialkurztext": "Ritzel",
+      "Materialkurztext": "RITZEL",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400473,
-      "Materialkurztext": "Ritzel",
+      "Materialkurztext": "RITZEL",
       "Übersetzung": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400588,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400645,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400650,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400671,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400672,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400673,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400674,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400705,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400793,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400794,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400795,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 4475405338,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400369,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4475406111,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869401077,
-      "Materialkurztext": "Tellerrad",
-      "Übersetzung": "Tellerrad f. angetriebene Busachsen",
+      "Materialkurztext": "TELLERRAD",
+      "Übersetzung": "Tellerrad für angetriebene Busachsen",
       "EZT": 87085099900
     },
     {
       "Material": 5869401050,
-      "Materialkurztext": "Ritzelwelle",
+      "Materialkurztext": "RITZELWELLE",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869401049,
-      "Materialkurztext": "Tellerrad",
+      "Materialkurztext": "TELLERAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400645,
-      "Materialkurztext": "Tellerrad/Ritzel",
+      "Materialkurztext": "TELLERRAD",
       "Übersetzung": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     }

@@ -1,51 +1,71 @@
 package ZFTarifnummerSuche;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 import java.io.FileNotFoundException;
-import java.util.Scanner;
 
-import static ZFTarifnummerSuche.Intro.intro;
-
+import static ZFTarifnummerSuche.TerminalDecorator.intro;
+import static ZFTarifnummerSuche.TerminalDecorator.menu;
 
 public class Main {
+
+    private static final InputReader INPUT_READER = InputReader.getInstance();
+    private static final JsonFileReader FILE_READER = JsonFileReader.getInstance();
+
     public static void main(String[] args) throws FileNotFoundException {
         intro();
+        TNSearchService searchService = new TNSearchService();
+        JSONArray json = FILE_READER.readrJsonFile();
 
-        Scanner scannerTNSearch = new Scanner(System.in);//Anfangen des Scanner-Objekts
-        boolean isRunning = true;//startet das Programmm solange true ist
-        while (isRunning) {
-            try {
-                if (scannerTNSearch.hasNextInt()) {
-                    String inputLine = scannerTNSearch.nextLine();
-                    Integer option = Integer.valueOf(inputLine);
-                    switch (option) {
-                        case 1:
-                            TNSucheMaterialNr.tnSucheMaterialNr();
-                            System.out.println("Möchten Sie weitersuchen? Ja [1] | Nein [2]");
-                            Integer answer = Integer.valueOf(scannerTNSearch.nextLine());
-                            if (answer == 1) {
-                                continue;
-                            } else {
-                                isRunning = false;
-                                intro();
-                            }
-                            //aktuell beendet das Programm nach der Suche was erfolreich ist
-                        case 2:
-                            TNSucheKurzText.tnSucheKurzText();
-                            break;
-                        case 3:
-                            System.out.println("Das Programm wird beendet.");
-                            isRunning = false;
-                            break;
-                        default:
-                            System.out.println("Bitte geben Sie eine gültige Option ein.");
+        doSearch(searchService, json);
+    }
+
+
+    private static void doSearch(TNSearchService searchService, JSONArray json) throws FileNotFoundException {
+        int option = INPUT_READER.readOptions();
+        switch (option) {
+            case 1:
+                int inputNumber = INPUT_READER.readMaterialNumber();
+                JSONObject result = searchService.tnSucheMaterialNr(inputNumber, json);
+                if (result == null) {
+                    System.out.println("Nothing was found");
+                    if (INPUT_READER.askToContinue()) {
+                        doSearch(searchService, json);
                     }
+                } else {
+                    TerminalDecorator.printResult(result);
+                    menu();
                 }
-            } catch (NumberFormatException e) {
-                System.out.println("Falsche Eingabe.");
-
-            }//else bedingung gelöscht jetzt geht es!!!
+                if (INPUT_READER.askToContinue()) {
+                    doSearch(searchService, json);
+                }
+                break;
+            case 2:
+                String inputText = INPUT_READER.readText();
+                JSONObject resultText = searchService.tnSucheKurzText(inputText, json);
+                if (resultText == null) {
+                    System.out.println("Nothing was found");
+                    if (INPUT_READER.askToContinue()) {
+                        doSearch(searchService, json);
+                    }
+                } else {
+                    TerminalDecorator.printResult(resultText);
+                    menu();
+                }
+                if (INPUT_READER.askToContinue()) {
+                    doSearch(searchService, json);
+                }
+                break;
+            case 3:
+                System.out.println("Das Programm wird beendet.");
+                INPUT_READER.close();
+                FILE_READER.close();
+                System.exit(1);
+                break;
+            default:
+                System.out.println("Bitte geben Sie eine gültige Option ein.");
         }
-        scannerTNSearch.close();
     }
 }
 

@@ -4,17 +4,43 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class TNSucheKurzText {
 
     public static void tnSucheKurzText() throws FileNotFoundException {
+        InputReader inputReader = InputReader.getInstance();
+        JsonFileReader fileReader = JsonFileReader.getInstance();
+        JSONArray json = fileReader.readrJsonFile();
+
+        String inputString = inputReader.readText().toUpperCase();
+        Pattern searchPattern = Pattern.compile("\\s*([a-zA-Z]+)\\s*");
+        Matcher opMatcher = searchPattern.matcher(inputString);
+        if (!opMatcher.matches()) {
+            System.out.println("Falsche Eingabe");
+            return;
+        }
+
+        JSONObject result = null;
+
+        for (int i = 0; i < json.length(); i++) {
+            JSONObject empObject = json.getJSONObject(i);
+            if (empObject.has("Materialkurztext") && empObject.getString("Materialkurztext").equals(inputString)) {
+                result = empObject;
+                break;
+            }
+        }
+        if (result != null) {
+           TerminalDecorator.printResult(result);
+        } else {
+            System.out.println("Ware nicht gefunden");
+        }
+    }
+}
+/*
         try (FileReader fileReader = new FileReader("src/main/resources/Tarifnummerliste.json");//liest die Daten aus der admin.json Datei
-             Scanner scanner = new Scanner(fileReader);//erstellt einen Scanner mit dem FileReader
+             Scanner scanner = new Scanner(fileReader);//erstellt einen Scanner mit dem JsonFileReader
              Scanner scannerSearch = new Scanner(System.in)) {
 
             StringBuffer jsonContent = new StringBuffer();//StringBuffer erstellen aus jsonContent
@@ -64,7 +90,7 @@ public class TNSucheKurzText {
         }
 
     }
-}
+}*/
 
 
 
