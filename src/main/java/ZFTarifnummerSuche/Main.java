@@ -3,7 +3,6 @@ package ZFTarifnummerSuche;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.FileNotFoundException;
 
 import static ZFTarifnummerSuche.TerminalDecorator.intro;
 import static ZFTarifnummerSuche.TerminalDecorator.menu;
@@ -13,7 +12,7 @@ public class Main {
     private static final InputReader INPUT_READER = InputReader.getInstance();
     private static final JsonFileReader FILE_READER = JsonFileReader.getInstance();
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) {
         intro();
         TNSearchService searchService = new TNSearchService();
         JSONArray json = FILE_READER.readrJsonFile();
@@ -22,10 +21,10 @@ public class Main {
     }
 
 
-    private static void doSearch(TNSearchService searchService, JSONArray json) throws FileNotFoundException {
+    private static void doSearch(TNSearchService searchService, JSONArray json) {
         int option = INPUT_READER.readOptions();
         switch (option) {
-            case 1:
+            case 1 -> {
                 int inputNumber = INPUT_READER.readMaterialNumber();
                 JSONObject result = searchService.tnSucheMaterialNr(inputNumber, json);
                 if (result == null) {
@@ -42,8 +41,8 @@ public class Main {
                 if (INPUT_READER.askToContinue()) {
                     doSearch(searchService, json);
                 }
-                break;
-            case 2:
+            }
+            case 2 -> {
                 String inputText = INPUT_READER.readText();
                 JSONObject resultText = searchService.tnSucheKurzText(inputText, json);
                 if (resultText == null) {
@@ -60,15 +59,14 @@ public class Main {
                 if (INPUT_READER.askToContinue()) {
                     doSearch(searchService, json);
                 }
-                break;
-            case 3:
+            }
+            case 3 -> {
                 System.out.println("Das Programm wird beendet.");
                 INPUT_READER.close();
                 FILE_READER.close();
                 System.exit(1);
-                break;
-            default:
-                System.out.println("Bitte geben Sie eine gültige Option ein.");
+            }
+            default -> System.out.println("Bitte geben Sie eine gültige Option ein.");
         }
     }
 }

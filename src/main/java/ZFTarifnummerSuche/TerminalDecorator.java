@@ -15,13 +15,14 @@ public class TerminalDecorator {
         System.out.println("===========================================");
     }
 
-    public static void menu(){
+    public static void menu() {
         System.out.println("Für Suche nach Materialnummer drücken Sie 1");
         System.out.println("Für Suche nach Kurztext drücken Sie 2");
         System.out.println("Für Beenden drücken Sie 3");
 
     }
-    public static void printResult(JSONObject result){
+
+    public static void printResult(JSONObject result) {
         /**
          * dieser Block muss außerhalb der oberen if Schleife stehen,
          *  um sicherzustellen, dass die Ausgabe "Materialnummer gefunden" oder

@@ -31,7 +31,7 @@ public class TNSucheKurzText {
             }
         }
         if (result != null) {
-           TerminalDecorator.printResult(result);
+            TerminalDecorator.printResult(result);
         } else {
             System.out.println("Ware nicht gefunden");
         }

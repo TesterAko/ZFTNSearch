@@ -55,6 +55,7 @@ public class InputReader {
             return readText();
         }
     }
+
     public void close() {
         scanner.close();
     }

@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheKurzText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheKurzText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
     </list>
@@ -47,17 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ekrem/IdeaProjects/ZFTarifnummernSuche/src/main/java/privat/Main.java&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.postfix.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/ekrem/IdeaProjects/ZFTarifnummernSuche/src/main/java/privat/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.postfix.templates"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="jdk.jpackage.main.Main" />
