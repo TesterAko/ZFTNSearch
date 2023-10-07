@@ -32,5 +32,6 @@ public class TerminalDecorator {
         System.out.println("Tarifnummer: " + result.getLong("EZT"));
         System.out.println("Materialkurztext: " + result.getString("Materialkurztext"));
         System.out.println("Text: " + result.getString("Übersetzung"));
+        System.out.println("\n");
     }
 }

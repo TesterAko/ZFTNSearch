@@ -29,7 +29,9 @@ public class Main {
                 int inputNumber = INPUT_READER.readMaterialNumber();
                 JSONObject result = searchService.tnSucheMaterialNr(inputNumber, json);
                 if (result == null) {
-                    System.out.println("Nothing was found");
+                    System.out.println("Nichts gefunden!");
+                    System.out.println("Bitte versuchen Sie es erneut");
+                    menu();
                     if (INPUT_READER.askToContinue()) {
                         doSearch(searchService, json);
                     }
@@ -45,7 +47,9 @@ public class Main {
                 String inputText = INPUT_READER.readText();
                 JSONObject resultText = searchService.tnSucheKurzText(inputText, json);
                 if (resultText == null) {
-                    System.out.println("Nothing was found");
+                    System.out.println("Nichts gefunden!");
+                    System.out.println("Bitte versuchen Sie es erneut");
+                    menu();
                     if (INPUT_READER.askToContinue()) {
                         doSearch(searchService, json);
                     }

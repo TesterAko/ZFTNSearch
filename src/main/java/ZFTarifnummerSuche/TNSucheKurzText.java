@@ -13,16 +13,15 @@ public class TNSucheKurzText {
         InputReader inputReader = InputReader.getInstance();
         JsonFileReader fileReader = JsonFileReader.getInstance();
         JSONArray json = fileReader.readrJsonFile();
+        JSONObject result = null;
 
-        String inputString = inputReader.readText().toUpperCase();
         Pattern searchPattern = Pattern.compile("\\s*([a-zA-Z]+)\\s*");
+        String inputString = inputReader.readText().toUpperCase();
         Matcher opMatcher = searchPattern.matcher(inputString);
         if (!opMatcher.matches()) {
             System.out.println("Falsche Eingabe");
             return;
         }
-
-        JSONObject result = null;
 
         for (int i = 0; i < json.length(); i++) {
             JSONObject empObject = json.getJSONObject(i);

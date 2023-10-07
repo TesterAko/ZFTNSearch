@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes" />
+    <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheKurzText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheKurzText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
