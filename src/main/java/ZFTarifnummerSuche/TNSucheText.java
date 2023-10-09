@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class TNSucheKurzText {
+public class TNSucheText {
 
     public static void tnSucheKurzText() throws FileNotFoundException {
         InputReader inputReader = InputReader.getInstance();
@@ -15,7 +15,7 @@ public class TNSucheKurzText {
         JSONArray json = fileReader.readrJsonFile();
         JSONObject result = null;
 
-        Pattern searchPattern = Pattern.compile("\\s*([a-zA-Z]+)\\s*");
+        Pattern searchPattern = Pattern.compile("\\s*([a-zA-Z]+\\s*)");
         String inputString = inputReader.readText().toUpperCase();
         Matcher opMatcher = searchPattern.matcher(inputString);
         if (!opMatcher.matches()) {
