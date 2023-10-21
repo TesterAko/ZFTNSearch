@@ -3,40 +3,41 @@ package ZFTarifnummerSuche;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.FileNotFoundException;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
 
 public class TNSucheText {
 
-    public static void tnSucheKurzText() throws FileNotFoundException {
+    public static void tnSucheKurzText() {
         InputReader inputReader = InputReader.getInstance();
         JsonFileReader fileReader = JsonFileReader.getInstance();
         JSONArray json = fileReader.readrJsonFile();
+
+        String inputLine = inputReader.readText();
+
         JSONObject result = null;
 
-        Pattern searchPattern = Pattern.compile("\\s*([a-zA-Z]+\\s*)");
-        String inputString = inputReader.readText().toUpperCase();
-        Matcher opMatcher = searchPattern.matcher(inputString);
-        if (!opMatcher.matches()) {
-            System.out.println("Falsche Eingabe");
-            return;
-        }
+
 
         for (int i = 0; i < json.length(); i++) {
             JSONObject empObject = json.getJSONObject(i);
-            if (empObject.has("Materialkurztext") && empObject.getString("Materialkurztext").equals(inputString)) {
+            if (empObject.has("Materialkurztext") && empObject.getString("Materialkurztext").equals(inputLine)) {
                 result = empObject;
                 break;
+
+            } else {
+                System.out.println("Falsche Eingabe");
+                return;
             }
         }
-        if (result != null) {
-            TerminalDecorator.printResult(result);
-        } else {
-            System.out.println("Ware nicht gefunden");
+            if (result != null) {
+                TerminalDecorator.printResult(result);
+            } else {
+                System.out.println("Ware nicht gefunden");
+            }
         }
     }
-}
+
+
 /*
         try (FileReader fileReader = new FileReader("src/main/resources/Tarifnummerliste.json");//liest die Daten aus der admin.json Datei
              Scanner scanner = new Scanner(fileReader);//erstellt einen Scanner mit dem JsonFileReader

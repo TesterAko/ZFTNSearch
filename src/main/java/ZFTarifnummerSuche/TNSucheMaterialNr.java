@@ -3,12 +3,7 @@ package ZFTarifnummerSuche;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
 
 public class TNSucheMaterialNr {//funktioniert
 
@@ -40,7 +35,7 @@ public class TNSucheMaterialNr {//funktioniert
                  * AKTUELL:
                  *jetzt nicht nur die Materialnummer,
                  * sondern auch die zugehörige Tarifnummer, den Materialkurztext und den Text anzeigen
-                 */
+                 **/
             }
         }
         if (resultText != null) {

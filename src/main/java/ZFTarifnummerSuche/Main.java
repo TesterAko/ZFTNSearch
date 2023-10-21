@@ -43,8 +43,8 @@ public class Main {
                 }
             }
             case 2 -> {
-                String inputText = INPUT_READER.readText();
-                JSONObject resultText = searchService.tnSucheKurzText(inputText, json);
+                String kurzText = INPUT_READER.readText();
+                JSONObject resultText = searchService.tnSucheKurzText(kurzText, json);
                 if (resultText == null) {
                     System.out.println("Nichts gefunden!");
                     System.out.println("Bitte versuchen Sie es erneut");

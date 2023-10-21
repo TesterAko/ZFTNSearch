@@ -16,6 +16,7 @@ public class InputReader {
 
     private InputReader() {
         this.scanner = new Scanner(System.in);
+
     }
 
     public int readOptions() {
@@ -45,15 +46,12 @@ public class InputReader {
     }
 
     public String readText() {
+
         System.out.println("Suche nach Kurztext");
         String inputLine = scanner.nextLine();
-        try {
+        //ist keine Int brauche kein Numberformatexception
             String result = inputLine.toUpperCase();
             return result;
-        } catch (NumberFormatException e) {
-            System.out.println("Falsche Eingabe.");
-            return readText();
-        }
     }
 
     public void close() {

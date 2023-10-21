@@ -2,859 +2,859 @@
     {
       "Material": 92402097,
       "Materialkurztext": "ANTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 92409039,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl, geschmiedet, für Mähdrescherantrieb",
+      "Info": "Zahnrad aus Stahl, geschmiedet, für Mähdrescherantrieb",
       "EZT": 84839089900
     },
     {
       "Material": 92409076,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl, geschmiedet, für Mähdrescherantrieb",
+      "Info": "Zahnrad aus Stahl, geschmiedet, für Mähdrescherantrieb",
       "EZT": 84839089900
     },
     {
       "Material": 2093410012,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl für Landmaschinengetriebe",
+      "Info": "Stirnrad aus Stahl für Landmaschinengetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 2093446021,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl für Landmaschinengetriebe",
+      "Info": "Zahnrad aus Stahl für Landmaschinengetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 2094459033,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl für Landmaschinengetriebe",
+      "Info": "Stirnrad aus Stahl für Landmaschinengetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 2099446029,
       "Materialkurztext": "KUPPLUNGSGLOCKE",
-      "Übersetzung": "Kupplungsglocke",
+      "Info": "Kupplungsglocke",
       "EZT": 87084099000
     },
     {
       "Material": 4061310268,
       "Materialkurztext": "DIFF.GEHAEUSE",
-      "Übersetzung": "Diff.Korb aus Stahl für Getriebe",
+      "Info": "Diff.Korb aus Stahl für Getriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4061316208,
       "Materialkurztext": "GEHAEUSEDECKEL",
-      "Übersetzung": "Deckel aus Gusseisen für Baumaschinen",
+      "Info": "Deckel aus Gusseisen für Baumaschinen",
       "EZT": 84314920000
     },
     {
       "Material": 4061318254,
       "Materialkurztext": "GEHAEUSEDECKEL",
-      "Übersetzung": "Deckel aus Gusseisen für Baumaschinen",
+      "Info": "Deckel aus Gusseisen für Baumaschinen",
       "EZT": 84314920000
     },
     {
       "Material": 4061416205,
       "Materialkurztext": "DIFF.GEHAEUSE",
-      "Übersetzung": "Diff. Gehäuse aus Stahl für Baumaschinenachsen und Wendegetriebe",
+      "Info": "Diff. Gehäuse aus Stahl für Baumaschinenachsen und Wendegetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4108402097,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Gusseisen für Baumaschinengetriebe",
+      "Info": "Planetenträger aus Gusseisen für Baumaschinengetriebe",
       "EZT": 84839081900
     },
     {
       "Material": 4108403378,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl für Baumaschinengetriebe",
+      "Info": "Planetenträger aus Stahl für Baumaschinengetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4112430306,
       "Materialkurztext": "ABTRIEBSRAD",
-      "Übersetzung": "Abtriebsrad geschmiedet für Baumaschinenachsen",
+      "Info": "Abtriebsrad geschmiedet für Baumaschinenachsen",
       "EZT": 84314980000
     },
     {
       "Material": 4131402074,
       "Materialkurztext": "DIFF.KORB",
-      "Übersetzung": "Diff.Korb aus Stahl für Getriebe",
+      "Info": "Diff.Korb aus Stahl für Getriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4131403097,
       "Materialkurztext": "DIFF.KORB",
-      "Übersetzung": "Diff.Korb aus Stahl für Getriebe",
+      "Info": "Diff.Korb aus Stahl für Getriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4131403099,
       "Materialkurztext": "DIFF.KORB",
-      "Übersetzung": "Diff.Korb aus Stahl für Getriebe",
+      "Info": "Diff.Korb aus Stahl für Getriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4143403077,
       "Materialkurztext": "SCHRAEGRAD",
-      "Übersetzung": "Schrägrad aus Stahl, geschmiedet für Baumaschinen",
+      "Info": "Schrägrad aus Stahl, geschmiedet für Baumaschinen",
       "EZT": 84839089900
     },
     {
       "Material": 4460468008,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad  aus Stahl, geschmiedet für Baumaschinen",
+      "Info": "Stirnrad  aus Stahl, geschmiedet für Baumaschinen",
       "EZT": 84839089900
     },
     {
       "Material": 4460468034,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad  aus Stahl, geschmiedet für Baumaschinen",
+      "Info": "Stirnrad  aus Stahl, geschmiedet für Baumaschinen",
       "EZT": 84839089900
     },
     {
       "Material": 4461471034,
       "Materialkurztext": "DIFF.KORB",
-      "Übersetzung": "Diff.Korb aus Stahl für Getriebe",
+      "Info": "Diff.Korb aus Stahl für Getriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4461473017,
       "Materialkurztext": "Diff.Korb",
-      "Übersetzung": "Differential, gegossen für Radladerachse",
+      "Info": "Differential, gegossen für Radladerachse",
       "EZT": 84314920000
     },
     {
       "Material": 4461473029,
       "Materialkurztext": "DIFF.KORB",
-      "Übersetzung": "Diff.Korb aus Stahl für Getriebe",
+      "Info": "Diff.Korb aus Stahl für Getriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4466462017,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Busachsen",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Busachsen",
       "EZT": 87085055000
     },
     {
       "Material": 4469421029,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4469421039,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, geschmiedet für Baumasch.Achse",
+      "Info": "Planetenträger aus Stahl, geschmiedet für Baumasch.Achse",
       "EZT": 84314980000
     },
     {
       "Material": 4469421040,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4469421042,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, geschmiedet für Baumasch.Achse",
+      "Info": "Planetenträger aus Stahl, geschmiedet für Baumasch.Achse",
       "EZT": 84314980000
     },
     {
       "Material": 4469421063,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4472335897,
       "Materialkurztext": "DISTANZRING",
-      "Übersetzung": "Distanzring aus Gusseisen für Busachse",
+      "Info": "Distanzring aus Gusseisen für Busachse",
       "EZT": 87085099000
     },
     {
       "Material": 4472406008,
       "Materialkurztext": "LAMELLENTRAEGER",
-      "Übersetzung": "lamellenträger aus Stahl, für Negativbremse in Vibrat.Walze",
+      "Info": "lamellenträger aus Stahl, für Negativbremse in Vibrat.Walze",
       "EZT": 87083099000
     },
     {
       "Material": 4472420054,
       "Materialkurztext": "LAMELLENTRAEGER",
-      "Übersetzung": "Lamellenträger aus Stahl,geschmiedet für Baumasch.achse",
+      "Info": "Lamellenträger aus Stahl,geschmiedet für Baumasch.achse",
       "EZT": 84314980000
     },
     {
       "Material": 4472420082,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Landmaschinengetriebe8708.4091000",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Landmaschinengetriebe8708.4091000",
       "EZT": 87084091000
     },
     {
       "Material": 4472436478,
       "Materialkurztext": "ANTRIEBSRAD",
-      "Übersetzung": "Antriebsrad für Busachsen",
+      "Info": "Antriebsrad für Busachsen",
       "EZT": 87085055000
     },
     {
       "Material": 10678,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Landmaschinengetriebe",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Landmaschinengetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 4472464073,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet, für Traktorachse",
+      "Info": "Hohlrad aus Stahl, geschmiedet, für Traktorachse",
       "EZT": 87085055000
     },
     {
       "Material": 4474375079,
       "Materialkurztext": "DISTANZRING",
-      "Übersetzung": "Distanzring aus Gusseisen für Busachse",
+      "Info": "Distanzring aus Gusseisen für Busachse",
       "EZT": 87085099000
     },
     {
       "Material": 4474425005,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Busachse",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Busachse",
       "EZT": 87085055000
     },
     {
       "Material": 4474425005,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Kettenbagger",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Kettenbagger",
       "EZT": 84314980000
     },
     {
       "Material": 4474450018,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
+      "Info": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 4474450021,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
+      "Info": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 4474450029,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
+      "Info": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 4474451195,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
+      "Info": "Planetenträger aus Stahl, geschmiedet für Radladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 4474455202,
       "Materialkurztext": "PLANETENRAD",
-      "Übersetzung": "Planetenrad aus Stahl für Baumaschinenachsen (Rohteil)",
+      "Info": "Planetenrad aus Stahl für Baumaschinenachsen (Rohteil)",
       "EZT": 84314980000
     },
     {
       "Material": 4474460159,
       "Materialkurztext": "WELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4474460175,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für nicht angetriebenen Busachsen (Bus)",
+      "Info": "Hohlrad aus Stahl, geschmiedet für nicht angetriebenen Busachsen (Bus)",
       "EZT": 87085055900
     },
     {
       "Material": 4475417046,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Traktorlenkachse",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Traktorlenkachse",
       "EZT": 87085055900
     },
     {
       "Material": 4475436229,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl, geschmiedet für Baggerladerachse",
+      "Info": "Hohlrad aus Stahl, geschmiedet für Baggerladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 4616408003,
       "Materialkurztext": "OELZUFUHRRING",
-      "Übersetzung": "Ölzufuhrring aus Stahl, geschmiedet für Radladergetriebe",
+      "Info": "Ölzufuhrring aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4616408004,
       "Materialkurztext": "TELLERKOLBEN",
-      "Übersetzung": "Tellerkolben, geschmiedet für Wendegetriebe",
+      "Info": "Tellerkolben, geschmiedet für Wendegetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4616408022,
       "Materialkurztext": "VORGL.WELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4644408154,
       "Materialkurztext": "LAMELLENTRAEGER",
-      "Übersetzung": "Lamellenträger aus Stahl, geschmiedet für Radladergetriebe",
+      "Info": "Lamellenträger aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4644408164,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
+      "Info": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4644451084,
       "Materialkurztext": "KOLBENTRAEGER",
-      "Übersetzung": "Kolbenträger, gegossen für Radladergetriebe",
+      "Info": "Kolbenträger, gegossen für Radladergetriebe",
       "EZT": 84839081900
     },
     {
       "Material": 4646304060,
       "Materialkurztext": "HOHLRADTRAEGER",
-      "Übersetzung": "Hohlradträger aus Stahl",
+      "Info": "Hohlradträger aus Stahl",
       "EZT": 84839089900
     },
     {
       "Material": 4646404059,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad, geschmiedet für Wendegetriebe",
+      "Info": "Hohlrad, geschmiedet für Wendegetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4646451234,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
+      "Info": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4646452171,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl für Baumaschinengetriebe",
+      "Info": "Zahnrad aus Stahl für Baumaschinengetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4646453125,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl für Radladergetriebe",
+      "Info": "Stirnrad aus Stahl für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4656402014,
       "Materialkurztext": "ANTRIEBSRAD",
-      "Übersetzung": "Antriebsrad geschmiedet für Baumaschinenachsen",
+      "Info": "Antriebsrad geschmiedet für Baumaschinenachsen",
       "EZT": 84314980000
     },
     {
       "Material": 4656474014,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl, geschmiedet für Radladergetriebe",
+      "Info": "Zahnrad aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4660473013,
       "Materialkurztext": "LAMELLENTRAEGER",
-      "Übersetzung": "Lamellenträger aus Stahl, geschmiedet für Baggerladergetriebe",
+      "Info": "Lamellenträger aus Stahl, geschmiedet für Baggerladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4662404006,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4662404014,
       "Materialkurztext": "SONNENRADWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4662423009,
       "Materialkurztext": "SONNENRAD",
-      "Übersetzung": "Sonnenrad aus Stahl für Dumpergetriebe",
+      "Info": "Sonnenrad aus Stahl für Dumpergetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 4662423009,
       "Materialkurztext": "SONNENRAD",
-      "Übersetzung": "Sonnenrad aus Stahl für Baumaschinengetriebe",
+      "Info": "Sonnenrad aus Stahl für Baumaschinengetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4662471027,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl für Baumaschinengetriebe",
+      "Info": "Zahnrad aus Stahl für Baumaschinengetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4662471032,
       "Materialkurztext": "WELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4662473008,
       "Materialkurztext": "WELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4662475003,
       "Materialkurztext": "LOSRAD",
-      "Übersetzung": "Losrad aus Stahl, geschmiedet für Dumpergetriebe",
+      "Info": "Losrad aus Stahl, geschmiedet für Dumpergetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 4662477008,
       "Materialkurztext": "LOSRAD",
-      "Übersetzung": "Losrad aus Stahl, geschmiedet für Dumpergetriebe",
+      "Info": "Losrad aus Stahl, geschmiedet für Dumpergetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 4662477027,
       "Materialkurztext": "WELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4662477027,
       "Materialkurztext": "WELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 4663402001,
       "Materialkurztext": "ANTRIEBSRAD",
-      "Übersetzung": "Antriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
+      "Info": "Antriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4663402002,
       "Materialkurztext": "ANTRIEBSRAD",
-      "Übersetzung": "Antriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
+      "Info": "Antriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4663403001,
       "Materialkurztext": "ABTRIEBSRAD",
-      "Übersetzung": "Abtriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
+      "Info": "Abtriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4663403002,
       "Materialkurztext": "ABTRIEBSRAD",
-      "Übersetzung": "Abtriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
+      "Info": "Abtriebsrad aus Stahl für Kompaktlader- u. Telehandlergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 4665477005,
       "Materialkurztext": "WELLE",
-      "Übersetzung": "Welle aus Stahl, geschmiedet",
+      "Info": "Welle aus Stahl, geschmiedet",
       "EZT": 84831095900
     },
     {
       "Material": 5869400019,
       "Materialkurztext": "DOPPELRAD",
-      "Übersetzung": "Doppelrad aus Stahl, geschmiedet für Traktorgetriebe",
+      "Info": "Doppelrad aus Stahl, geschmiedet für Traktorgetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 5869400095,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
+      "Info": "Stirnrad aus Stahl, geschmiedet für Radladergetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 5869400100,
       "Materialkurztext": "LAMELLENTRAEGER",
-      "Übersetzung": "Lamellenträger aus Stahl für Traktorgetriebe",
+      "Info": "Lamellenträger aus Stahl für Traktorgetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 5869400103,
       "Materialkurztext": "ABTRIEBSRAD",
-      "Übersetzung": "Abtriebsrad geschmiedet für Baumaschinenachsen",
+      "Info": "Abtriebsrad geschmiedet für Baumaschinenachsen",
       "EZT": 84314980000
     },
     {
       "Material": 5869400107,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 5869400109,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl für Radladerachse",
+      "Info": "Planetenträger aus Stahl für Radladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 5869400110,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl für Radladerachse",
+      "Info": "Planetenträger aus Stahl für Radladerachse",
       "EZT": 84314980000
     },
     {
       "Material": 5869400135,
       "Materialkurztext": "HOHLRADTRAEGER",
-      "Übersetzung": "Hohlradträger aus Stahl, geschmiedet für Dumperachse",
+      "Info": "Hohlradträger aus Stahl, geschmiedet für Dumperachse",
       "EZT": 87085055000
     },
     {
       "Material": 5869400136,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad, geschmiedet für Baumaschinenachsen",
+      "Info": "Hohlrad, geschmiedet für Baumaschinenachsen",
       "EZT": 84314980000
     },
     {
       "Material": 5869400148,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl, für Baumaschinengetriebe",
+      "Info": "Planetenträger aus Stahl, für Baumaschinengetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 5869400330,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 5869400331,
       "Materialkurztext": "ABTRIEBSWELLE",
-      "Übersetzung": "Welle aus Stahl",
+      "Info": "Welle aus Stahl",
       "EZT": 84831095900
     },
     {
       "Material": 5869400345,
       "Materialkurztext": "ZAHNRAD",
-      "Übersetzung": "Zahnrad aus Stahl für Getriebe",
+      "Info": "Zahnrad aus Stahl für Getriebe",
       "EZT": 87084091000
     },
     {
       "Material": 5869400348,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad aus Stahl für Landmaschinengetriebe",
+      "Info": "Stirnrad aus Stahl für Landmaschinengetriebe",
       "EZT": 87084091000
     },
     {
       "Material": 5869400385,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl für Getriebe in Mobilbagger",
+      "Info": "Planetenträger aus Stahl für Getriebe in Mobilbagger",
       "EZT": 84839089900
     },
     {
       "Material": 5869400473,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Ritzel",
+      "Info": "Ritzel",
       "EZT": 87085099900
     },
     {
       "Material": 5869400558,
       "Materialkurztext": "PLANETENTRAEGER",
-      "Übersetzung": "Planetenträger aus Stahl für Fahrmischergetriebe",
+      "Info": "Planetenträger aus Stahl für Fahrmischergetriebe",
       "EZT": 87084099000
     },
     {
       "Material": 5869400588,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Tellerrad",
+      "Info": "Tellerrad",
       "EZT": 87085099900
     },
     {
       "Material": 5869400645,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Tellerrad",
+      "Info": "Tellerrad",
       "EZT": 87085099900
     },
     {
       "Material": 5869400727,
       "Materialkurztext": "KUPPLGS.KOERPER",
-      "Übersetzung": "Kupplungskörper für Getriebe in Fahrmischern",
+      "Info": "Kupplungskörper für Getriebe in Fahrmischern",
       "EZT": 87084099000
     },
     {
       "Material": 5869400782,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad aus Stahl für Mobilbagger- u. Telehandlerachse",
+      "Info": "Hohlrad aus Stahl für Mobilbagger- u. Telehandlerachse",
       "EZT": 84839089900
     },
     {
       "Material": 5869400794,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Tellerrad",
+      "Info": "Tellerrad",
       "EZT": 87085099900
     },
     {
       "Material": 5869400846,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Hohlrad geschmiedet für Getriebe",
+      "Info": "Hohlrad geschmiedet für Getriebe",
       "EZT": 87084091000
     },
     {
       "Material": 5869400890,
       "Materialkurztext": "HOHLRAD",
-      "Übersetzung": "Schrägrad aus Stahl für Baumaschinenantrieb",
+      "Info": "Schrägrad aus Stahl für Baumaschinenantrieb",
       "EZT": 84839089900
     },
     {
       "Material": 5869400907,
       "Materialkurztext": "ANTRIEBSRAD",
-      "Übersetzung": "Antriebsrad aus Stahl für angetriebene Busachse",
+      "Info": "Antriebsrad aus Stahl für angetriebene Busachse",
       "EZT": 87085099900
     },
     {
       "Material": 5869400917,
       "Materialkurztext": "RADWELLE",
-      "Übersetzung": "Radwelle",
+      "Info": "Radwelle",
       "EZT": 84831095900
     },
     {
       "Material": 5869400930,
       "Materialkurztext": "STIRNRAD",
-      "Übersetzung": "Stirnrad für Baumaschinengetriebe",
+      "Info": "Stirnrad für Baumaschinengetriebe",
       "EZT": 84839089900
     },
     {
       "Material": 5869400941,
       "Materialkurztext": "ABTRIEBSRAD",
-      "Übersetzung": "Abtriebsrad, geschmiedet für Busachsen",
+      "Info": "Abtriebsrad, geschmiedet für Busachsen",
       "EZT": 87085055900
     },
     {
       "Material": 2095409045,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Landmaschine der Pos. 8701",
+      "Info": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 2097409009,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Landmaschine der Pos. 8701",
+      "Info": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 2097409025,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Landmaschine der Pos. 8701",
+      "Info": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 4108403153,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4149449013,
       "Materialkurztext": "KEGELRAD",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4181416005,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4181416006,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4460405507,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4460405610,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 4460416101,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4460471090,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4475438076,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400041,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Landmaschine der Pos. 8701",
+      "Info": "Landmaschine der Pos. 8701",
       "EZT": 87085099000
     },
     {
       "Material": 5869400284,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400402,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400403,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400404,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400471,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400473,
       "Materialkurztext": "RITZEL",
-      "Übersetzung": "Bus der Pos. 8702",
+      "Info": "Bus der Pos. 8702",
       "EZT": 87085099000
     },
     {
       "Material": 5869400588,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400645,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400650,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400671,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400672,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400673,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400674,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400705,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400793,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400794,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 5869400795,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Stapler der Pos. 8427",
+      "Info": "Stapler der Pos. 8427",
       "EZT": 84312000900
     },
     {
       "Material": 4475405338,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400369,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 4475406111,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869401077,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Tellerrad für angetriebene Busachsen",
+      "Info": "Tellerrad für angetriebene Busachsen",
       "EZT": 87085099900
     },
     {
       "Material": 5869401050,
       "Materialkurztext": "RITZELWELLE",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869401049,
       "Materialkurztext": "TELLERAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     },
     {
       "Material": 5869400645,
       "Materialkurztext": "TELLERRAD",
-      "Übersetzung": "Baumaschine der Pos. 8429",
+      "Info": "Baumaschine der Pos. 8429",
       "EZT": 84314980000
     }
   ]
