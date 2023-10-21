@@ -1,10 +1,7 @@
-package ZFTarifnummerSuche;
+package de.ekrem.ZFTarifnummerSuche;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 
 public class TNSearchService {

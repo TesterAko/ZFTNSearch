@@ -1,4 +1,4 @@
-package ZFTarifnummerSuche;
+package de.ekrem.ZFTarifnummerSuche;
 
 import org.json.JSONArray;
 

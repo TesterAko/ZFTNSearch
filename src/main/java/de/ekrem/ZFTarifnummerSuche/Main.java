@@ -1,11 +1,11 @@
-package ZFTarifnummerSuche;
+package de.ekrem.ZFTarifnummerSuche;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 
-import static ZFTarifnummerSuche.TerminalDecorator.intro;
-import static ZFTarifnummerSuche.TerminalDecorator.menu;
+import static de.ekrem.ZFTarifnummerSuche.TerminalDecorator.intro;
+import static de.ekrem.ZFTarifnummerSuche.TerminalDecorator.menu;
 
 public class Main {
 
