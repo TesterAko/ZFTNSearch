@@ -10,18 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/JsonFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/JsonFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheMaterialNr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheMaterialNr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,16 +72,21 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Program Files/Java/jdk-17.0.2",
     "onboarding.tips.debug.path": "C:/Users/ekrem/IdeaProjects/ZFTarifnummernSuche/src/main/java/privat/Main.java",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.build"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.ekrem.ZFTarifnummerSuche" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ZFTarifnummerSuche.Main" />
+      <option name="MAIN_CLASS_NAME" value="de.ekrem.ZFTarifnummerSuche.Main" />
       <module name="ZFTarifnummernSuche" />
       <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
         <option name="credential" />
