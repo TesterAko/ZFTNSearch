@@ -4,6 +4,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 
+import static de.ekrem.ZFTarifnummerSuche.MainGui.executeGUI;
 import static de.ekrem.ZFTarifnummerSuche.TerminalDecorator.intro;
 import static de.ekrem.ZFTarifnummerSuche.TerminalDecorator.menu;
 
@@ -13,11 +14,12 @@ public class Main {
     private static final JsonFileReader FILE_READER = JsonFileReader.getInstance();
 
     public static void main(String[] args) {
-        intro();
-        TNSearchService searchService = new TNSearchService();
-        JSONArray json = FILE_READER.readrJsonFile();
+        //intro();
+       // TNSearchService searchService = new TNSearchService();
+       // JSONArray json = FILE_READER.readrJsonFile();
 
-        doSearch(searchService, json);
+        executeGUI();
+       // doSearch(searchService, json);
     }
 
 

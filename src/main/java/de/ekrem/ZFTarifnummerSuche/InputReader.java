@@ -1,10 +1,15 @@
 package de.ekrem.ZFTarifnummerSuche;
 
+import java.io.ByteArrayInputStream;
+import java.io.InputStream;
+import java.util.List;
 import java.util.Scanner;
+import javax.swing.JTextArea;
+import javax.swing.SwingWorker;
 
 public class InputReader {
     private static InputReader INSTANCE;
-    private final Scanner scanner;
+    private Scanner scanner;
 
     public static InputReader getInstance() {
         if (INSTANCE == null) {
@@ -15,9 +20,16 @@ public class InputReader {
     }
 
     private InputReader() {
-        this.scanner = new Scanner(System.in);
+
+        InputTextArea.getInstance().getTextArea().getText().split("\\n");
+        InputStream inputStream = new ByteArrayInputStream(InputTextArea.getInstance().getTextArea().getText().getBytes());
+
+       new InputStreamWorker(InputTextArea.getInstance().getTextArea(), inputStream);
 
     }
+
+    // GET: /api/ekrem/materials  --> returns all
+    // GET: /api/ekrem/materials/{id}  --> returns by id
 
     public int readOptions() {
         String inputLine = scanner.nextLine();
@@ -60,6 +72,30 @@ public class InputReader {
 
     public boolean askToContinue() {
         return true;
+    }
+
+
+    private class InputStreamWorker extends SwingWorker<Void, String> {
+        private JTextArea textArea;
+        private InputStreamWorker(JTextArea textArea, InputStream inStream) {
+            this.textArea = textArea;
+            scanner = new Scanner(inStream);
+        }
+
+        @Override
+        protected Void doInBackground() throws Exception {
+            while (scanner.hasNextLine()) {
+                publish(scanner.nextLine());
+            }
+            return null;
+        }
+
+        @Override
+        protected void process(List<String> chunks) {
+            for (String chunk : chunks) {
+                textArea.append(chunk + "\n");
+            }
+        }
     }
 }
 

@@ -10,8 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/InputTextArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/InputReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +59,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2WDuYzc0ZkGNqFgLxXe9lR7gUyw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -68,9 +76,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "senior",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Program Files/Java/jdk-17.0.2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/ekrem/IdeaProjects/ZFTarifnummernSuche/src/main/java/privat/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -84,7 +96,7 @@
       <recent name="de.ekrem.ZFTarifnummerSuche" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="de.ekrem.ZFTarifnummerSuche.Main" />
       <module name="ZFTarifnummernSuche" />
@@ -97,6 +109,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.ekrem.ZFTarifnummerSuche.MainGui" />
+      <module name="ZFTarifnummernSuche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ekrem.ZFTarifnummerSuche.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainGui" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,6 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696279522820</updated>
+      <workItem from="1698345754024" duration="3395000" />
     </task>
     <task id="LOCAL-00001" summary="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
       <option name="closed" value="true" />
@@ -117,6 +148,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -141,6 +175,31 @@
           <properties class="org.json.JSONException" package="org.json" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/JsonFileReader.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/MainGui.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/InputReader.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
