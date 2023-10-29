@@ -4,7 +4,6 @@ import org.json.JSONObject;
 
 public class TerminalDecorator {
     public static void intro() {
-        System.out.println("Herzlich Willkommen");
         System.out.println("===========================================");
         System.out.println("Hauptmenü");
         System.out.println("Für Suche nach Materialnummer drücken Sie 1");
@@ -16,9 +15,7 @@ public class TerminalDecorator {
     }
 
     public static void menu() {
-        System.out.println("Für Suche nach Materialnummer drücken Sie 1");
-        System.out.println("Für Suche nach Kurztext drücken Sie 2");
-        System.out.println("Für Beenden drücken Sie 3");
+        System.out.println("Suche 1, 2 oder 3?");
 
     }
 

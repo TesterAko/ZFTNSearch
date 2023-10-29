@@ -10,17 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d430c04-dbf4-41bc-9cc7-18f276560d34" name="Changes" comment="Merge pull request #1 from TesterAko/ms-changes&#10;&#10;Add changes to the code by introducing multiple classes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/InputReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/JsonFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/JsonFileReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSearchService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheMaterialNr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheMaterialNr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TNSucheText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/InputReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/InputReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/TNSucheMaterialNr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/TNSucheMaterialNr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/TerminalDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ekrem/ZFTarifnummerSuche/TerminalDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Tarifnummerliste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +34,11 @@
       <list>
         <option value="Ekrem Gedik &lt;127249095+testerako@users.noreply.github.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="newtry" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -73,25 +72,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Program Files/Java/jdk-17.0.2",
-    "onboarding.tips.debug.path": "C:/Users/ekrem/IdeaProjects/ZFTarifnummernSuche/src/main/java/privat/Main.java",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.build"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Java/jdk-17.0.2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ekrem/IdeaProjects/ZFTarifnummernSuche/src/main/java/privat/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ZFTarifnummerSuche.Main" />
+      <option name="MAIN_CLASS_NAME" value="de.ekrem.ZFTarifnummerSuche.Main" />
       <module name="ZFTarifnummernSuche" />
       <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
         <option name="credential" />

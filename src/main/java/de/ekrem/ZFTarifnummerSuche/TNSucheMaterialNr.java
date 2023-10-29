@@ -12,7 +12,7 @@ public class TNSucheMaterialNr {//funktioniert
         JsonFileReader fileReader = JsonFileReader.getInstance();
         JSONArray json = fileReader.readrJsonFile();
 
-        int inputNumber = inputReader.readMaterialNumber();
+        long inputNumber = inputReader.readMaterialNumber();
 
         JSONObject resultText = null;
 

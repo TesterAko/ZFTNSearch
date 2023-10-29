@@ -50,8 +50,8 @@ public class InputReader {
         System.out.println("Suche nach Kurztext");
         String inputLine = scanner.nextLine();
         //ist keine Int brauche kein Numberformatexception
-            String result = inputLine.toUpperCase();
-            return result;
+        String result = inputLine.toUpperCase();
+        return result;
     }
 
     public void close() {
@@ -62,4 +62,3 @@ public class InputReader {
         return true;
     }
 }
-
