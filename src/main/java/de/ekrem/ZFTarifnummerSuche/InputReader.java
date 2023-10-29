@@ -2,9 +2,10 @@ package de.ekrem.ZFTarifnummerSuche;
 
 import java.util.Scanner;
 
+
 public class InputReader {
     private static InputReader INSTANCE;
-    private final Scanner scanner;
+    private Scanner scanner;
 
     public static InputReader getInstance() {
         if (INSTANCE == null) {
@@ -12,11 +13,6 @@ public class InputReader {
         }
 
         return INSTANCE;
-    }
-
-    private InputReader() {
-        this.scanner = new Scanner(System.in);
-
     }
 
     public int readOptions() {
@@ -49,9 +45,8 @@ public class InputReader {
 
         System.out.println("Suche nach Kurztext");
         String inputLine = scanner.nextLine();
-        //ist keine Int brauche kein Numberformatexception
-            String result = inputLine.toUpperCase();
-            return result;
+        String result = inputLine.toUpperCase();
+        return result;
     }
 
     public void close() {
@@ -62,4 +57,3 @@ public class InputReader {
         return true;
     }
 }
-
